@@ -2,7 +2,7 @@ import socket
 import threading
 
 # Server configuration
-HOST = '192.168.29.189'  # Listen on all available IPv6 and IPv4 interfaces
+HOST = 'IP'  # Listen on all available IPv6 and IPv4 interfaces
 PORT = 12347
 BUFFER_SIZE = 1024
 
