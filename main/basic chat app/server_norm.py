@@ -2,8 +2,8 @@ import socket
 import threading
 
 # Server configuration
-HOST = 'IP'  # Listen on all available IPv6 and IPv4 interfaces
-PORT = 12347
+HOST = '::'  # Listen on all available IPv6 and IPv4 interfaces
+PORT = 12345
 BUFFER_SIZE = 1024
 
 # Create a socket with dual-stack support (IPv4 and IPv6)
