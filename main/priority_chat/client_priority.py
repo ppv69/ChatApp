@@ -2,7 +2,7 @@
 import socket
 
 # Server configuration
-SERVER_HOST = '192.168.29.189'  # Replace with the IP address of the server
+SERVER_HOST = 'IP'  # Replace with the IP address of the server
 SERVER_PORT = 12347  # Replace with the port number used by the server
 BUFFER_SIZE = 1024  # Size of the buffer for receiving data
 
