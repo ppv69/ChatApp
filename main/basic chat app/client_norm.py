@@ -3,7 +3,7 @@ import threading
 import os
 
 # Client configuration
-SERVER_IP = '192.168.29.189'  # Server's IPv4 address 
+SERVER_IP = 'IP'  # Server's IPv4 address 
 SERVER_PORT = 12347
 BUFFER_SIZE = 1024
 
