@@ -7,7 +7,7 @@ import time
 clients = {}  # Dictionary to hold client sockets and their corresponding priorities
 
 # Server configuration
-SERVER_HOST = '192.168.29.189'  # Replace with the server's IP address
+SERVER_HOST = 'IP'  # Replace with the server's IP address
 SERVER_PORT = 12347  # Replace with the server's port number
 BUFFER_SIZE = 1024  # Size of the buffer for receiving data
 
