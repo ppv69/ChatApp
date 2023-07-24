@@ -4,7 +4,7 @@ import zipfile
 import os
 
 # Define the host and port for the socket connection
-host = '127.0.0.1'
+host = 'IP'
 port = 1337
 
 # Number of image files to include in the zip archive
